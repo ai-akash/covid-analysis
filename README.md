@@ -1,7 +1,11 @@
 # covid-analysis
 # Covid-19 Cases Analysis
 
-# Not Github is not showing the graph output
+Note :- Github is not showing the graph output
+
+
+
+
 
 This is the colab link of project notebook is hosted here https://colab.research.google.com/drive/1_UEzpbPaniV6Ci_Z9BoTuH4gowCb9w68?usp=sharing
 
